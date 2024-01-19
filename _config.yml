@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mario Cuomo"
   avatar : "/assets/images/me_give.png"
-  bio    : "Cloud Solution Architect Security at microsoft focusing on XDR + SIEM solutions"
+  bio    : "Cloud Solution Architect Security at Microsoft focusing on XDR + SIEM solutions"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
