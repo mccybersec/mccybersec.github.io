@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi everyone!
+I'm Mario Cuomo - a Cloud Solution Architect at Microsoft focused on Extended Detection and Response (XDR) and Security Information and Event Management (SIEM) tools.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This blog will cover these topics in the Microsoft ecosystem by leveraging technologies such as Defender XDR (Defender for Endpoint, Defender for Cloud (and Apps), Defender for Identity and Defender for Office 365), Sentinel and Security Copilot.
+
+The goal is to share how Microsoft's suite of security products can work harmoniously and show the benefits of this holistic approach with tech blog posts.
+The idea is to publish a blog post every week, on Sunday.
+
+Thank you,
+Mario
