@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mario Cuomo"
   avatar : "/assets/images/me_give.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Cloud Solution Architect Security at microsoft focusing on XDR + SIEM solutions"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
