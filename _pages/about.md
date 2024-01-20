@@ -13,3 +13,7 @@ The idea is to publish a blog post every week, on Sunday.
 
 Thank you,<br>
 Mario
+
+<div align="center">
+  <img src="../assets/images/logo.png">
+</div>
