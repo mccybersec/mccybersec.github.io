@@ -15,5 +15,5 @@ Thank you,<br>
 Mario
 
 <div align="center">
-  <img src="../assets/images/logo.png">
+  <img src="../assets/images/logo.png" width="105"></img>
 </div>
