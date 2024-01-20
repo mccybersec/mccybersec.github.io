@@ -12,8 +12,9 @@ The goal is to share how Microsoft's suite of security products can work harmoni
 The idea is to publish a blog post every week, on Sunday.
 
 Thank you,<br>
-Mario
+*Mario*
 
 <div align="center">
-  <img src="../assets/images/logo.png" width="105"></img>
+  <img src="../assets/images/logo.png" width="105">
+  MC Cyber Blog
 </div>
