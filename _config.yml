@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: mc cybersec blog
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -63,8 +63,7 @@ author:
       url: "https://github.com/mariocuomo"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mariocuomo/"
-      
+      url: "https://www.linkedin.com/in/mariocuomo/"   
 
 footer:
   links:
