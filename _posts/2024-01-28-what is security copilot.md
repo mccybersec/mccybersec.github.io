@@ -1,13 +1,11 @@
 ---
-title: "What is "
+title: "What is Microsoft Security Copilot?" 
 categories:
-  - Backlog
+  - Security Copilot
 ---
 
-# What is Microsoft Security Copilot?
-
 <div align="center">
-    <img src="assets/images/security-copilot-diagram.png">
+    <img src="https://github.com/mccybersec/mccybersec.github.io/blob/master/assets/images/security-copilot-diagram.png">
 </div>
 
 Security Copilot is the first generative AI security product that empowers SOC analysts to defend their organizations at machine speed and scale!
