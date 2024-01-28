@@ -4,9 +4,7 @@ categories:
   - Security Copilot
 ---
 
-![Untitled](/assets/images/security-copilot-diagram.png)
-
-![image-title-here](https://github.com/mccybersec/mccybersec.github.io/blob/master/assets/images/security-copilot-diagram.png){:class="img-responsive"}
+![Security Copilot Diagram](/assets/images/security-copilot-diagram.png)
 
 
 Security Copilot is the first generative AI security product that empowers SOC analysts to defend their organizations at machine speed and scale!
