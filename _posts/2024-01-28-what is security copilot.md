@@ -5,6 +5,7 @@ categories:
 ---
 
 <div align="center">
+  ![image-title-here](assets/images/security-copilot-diagram.png){:class="img-responsive"}
     <img src="https://github.com/mccybersec/mccybersec.github.io/blob/master/assets/images/security-copilot-diagram.png">
 </div>
 
