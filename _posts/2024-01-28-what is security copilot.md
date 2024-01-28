@@ -9,7 +9,7 @@ categories:
 
 Security Copilot is the first generative AI security product that empowers SOC analysts to defend their organizations at machine speed and scale!
 
-To date it has the goal of boosting your SOC team in three main themes:
+To date it has the goal of boosting your SOC team in three main scenarios:
 
 - **Security posture management**<br>
 Prioritize risks and address vulnerabilities with guided recommendations.
