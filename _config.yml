@@ -17,6 +17,9 @@ title: mc cybersec blog
 minimal_mistakes_skin: contrast
 search: true
 
+url: 'https://mccybersec.github.io/' # your main domain
+baseurl: 'mccybersec.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
