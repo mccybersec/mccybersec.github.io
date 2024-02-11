@@ -1,7 +1,7 @@
 ---
 title: "Defender for Cloud Apps Cloud Discovery API" 
 categories:
-  - Defender for Cloud Apps
+  - Defender XDR
 ---
 
 Microsoft Defender for Cloud Apps (MDA) is a CASB - Cloud Access Security Broker. The product analyzes user behavior towards cloud applications in order to identify anomalous/risky behaviour. <br>
