@@ -60,7 +60,7 @@ you create an app registrations in Microsoft Entra ID but the permissions permis
 
 Below is a simple example of a powershell script that uploads the zscaler-cef.txt file saved locally and associates it with the cloud-discovery-MDA-API source (already created) in MDA. It is performed using legacy authentication.
 
-```powershell
+```
 <#
 Perform operations to retrieve logs from the source.
 Output: zcaler-cef.txt file
