@@ -42,9 +42,9 @@ Logs can be uploaded into MDA in 3 ways
 MDA proposes three APIs to execute sequentially for Cloud Discovery.
 1. **Initiate file upload** (__GET /api/v1/discovery/upload_url/__) <br>
 This API represents the manifestation of wanting to upload network logs. <br>
-Request: filename to upload and source type (equivalent to 'I want to upload the mylogs.csv file which contains logs retrieved from Squid proxy)
+Request: filename to upload and source type (equivalent to 'I want to upload the mylogs.csv file which contains logs retrieved from Squid proxy) <br>
 Response: url where to upload
-2. **Perform file upload** (__PUT https://<initiate_file_upload_response_url>__) <br>
+2. **Perform file upload** (__PUT https://initiate_file_upload_response_url__) <br>
 This API performs the file transfer
 3. **Finalize file upload** (__POST /api/v1/discovery/done_upload/__) <br>
 This API represents instructions about how to treat the newly obtained file: whether it should be a snapshot report or whether it should be associated with some source in MDA.
