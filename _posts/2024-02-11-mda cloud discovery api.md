@@ -60,41 +60,6 @@ you create an app registrations in Microsoft Entra ID but the permissions permis
 
 Below is a simple example of a powershell script that uploads the zscaler-cef.txt file saved locally and associates it with the cloud-discovery-MDA-API source (already created) in MDA. It is performed using legacy authentication.
 
-```
-<#
-Perform operations to retrieve logs from the source.
-Output: zcaler-cef.txt file
-#>
-
-#Initiate file upload API
-$headers = @{
-  Authorization = 'Token <YOUR-TOKEN>'
-}
-$Uri = "https://<YOUR-TENANT-INFO>.portal.cloudappsecurity.com/api/v1/discovery/upload_url/?filename=zscalecef.txt&source=ZSCALER_CEF"
-$response = Invoke-WebRequest -Uri $Uri -Method Get -Headers $headers -UseBasicParsing
-
-#Perform file upload
-$Uri = $response.Content | ConvertFrom-Json
-$Uri = $Uri.url
-$headers = @{
-  "x-ms-blob-type" = 'BlockBlob'
-}
-Invoke-WebRequest -Uri $Uri -Method Put -Headers $headers -InFile "zscaler-cef.txt" -UseBasicParsing
-
-#Finalize file upload
-$headers = @{
-  Authorization = 'Token <YOUR-TOKEN>'
-}
-$body = @{
-    "uploadUrl" = $Uri
-    "inputStreamName" = "cloud-discovery-MDA-API"
-}
-$Uri = "https://<YOUR-TENANT-INFO>.portal.cloudappsecurity.com/api/v1/discovery/done_upload/"
-Invoke-WebRequest -Uri $Uri -Method Post -Headers $headers -Body $body -UseBasicParsing
-```
-
-![Cloud Discovery](/assets/images/mda-clouddiscovery.png)
-
 
 For more information don't hesitate to contact me!<br>
 Thank you for taking time to read.
