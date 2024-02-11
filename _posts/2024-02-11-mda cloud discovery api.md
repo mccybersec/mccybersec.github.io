@@ -1,5 +1,5 @@
 ---
-title: "Defender for Cloud Apps - Cloud Discovery API" 
+title: "Defender for Cloud Apps Cloud Discovery API" 
 categories:
   - Defender for Cloud Apps
 ---
