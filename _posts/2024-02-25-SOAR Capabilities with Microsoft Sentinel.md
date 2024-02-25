@@ -18,10 +18,10 @@ SOAR capability is characterized by the execution of a set of operations in sequ
 The desired workflow is to execute a specific playbook if a specific incident is created in Sentinel. In this scenario it is necessary to introduce a further concept: Automation Rules. An automation rule aims to automatically respond to an incident and perform management operations on it, such as changing its status and risk, assigning an owner, classifying it or running a workbook.
 
 The following diagram summarizes the concepts described above
-1. le varie sorgenti inviano dati a Sentinel, che sono memorizzati
-2. in Sentinel sono definite delle analytics rule che analizzano continuamente i dat
-3. se una analytic è matchata, essa può sollevare un incident
-4. a un incident è associata una o più automation rules che possono effettuare le seguenti azioni
+1. sources send data to Sentinel
+2. analytics rules are defined in Sentinel that continuously analyze the data
+3. if an analytic is matched, it can raise an incident
+4. an incident is associated with one or more automation rules that can perform the following actions
     - change status
     - change severity
     - assign owner
