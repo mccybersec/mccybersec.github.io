@@ -1,5 +1,5 @@
 ---
-title: "Capabilities with Microsoft Sentinel" 
+title: "SOAR Capabilities with Microsoft Sentinel" 
 categories:
   - Microsoft Sentinel
 ---
