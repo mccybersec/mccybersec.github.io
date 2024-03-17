@@ -95,7 +95,7 @@ $response = Invoke-RestMethod -Uri $apiEndpoint -Method Post -Headers $headers -
 $response
 ```
 
-![LOGIC APP](/assets/images/logic-app.png)
+![LOGIC APP](/assets/images/logicapp.png)
 
 --- 
 
