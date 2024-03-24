@@ -69,7 +69,7 @@ You can think of having two storage accounts: a temporary one in which the uploa
 [Here](https://storageantimalwareprev.blob.core.windows.net/samples/MoveMaliciousBlobEventTrigger.cs) an example of a Function App that consumes the tagging event.
 
 
-![workflow](/assets/images/workflow.png)
+![workflow](/assets/images/workflow.jpg)
 
 
 The new Defender for Storage billing plan was released on March 28, 2023. The new plan is based on the number of protected storages, you can enable it at resource level too. Activity Monitoring and Sensitive data threat detection are included in the plan. Malware scanning in uploaded has a pricing that depends on how many GB are scanned.
